@@ -1,0 +1,15 @@
+{
+  "itemName" : "mauskinshipsupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "mauskinshipsupport.png",
+  "description" : "A wall support used in ship construction.",
+  "shortdescription" : "Ship Support",
+  "glitchdescription" : "Informed. Supports like this are often used in ship construction.",
+  "florandescription" : "Ssship sstructural ssupport.",
+  "novakiddescription" : "Made for holdin' spaceships together.",
+
+  "materialId" : 26011,
+  "learnBlueprintsOnPickup" : [ "mauskinshipsupport" ]
+}
