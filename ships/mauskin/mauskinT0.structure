@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "mauskinT1.png",
+      "position" : [-24.5, 12.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "mauskinT1lit.png",
+      "position" : [-24.5, 12.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "mauskinT0blocks.png"
+}

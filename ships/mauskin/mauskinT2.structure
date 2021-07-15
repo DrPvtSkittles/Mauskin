@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "mauskinT2.png",
+      "position" : [-24.5, 12.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "mauskinT2lit.png",
+      "position" : [-24.5, 12.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "mauskinT2blocks.png"
+}

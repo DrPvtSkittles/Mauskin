@@ -1,0 +1,21 @@
+{
+  "materialId" : 26009,
+  "materialName" : "mauskinshipwall",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mauskinshipwall",
+  "description" : "A panel made of very thick glass.",
+  "shortdescription" : "Wall Panel",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mauskinshipwall.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "multiColored" : true,
+    "occludesBelow" : false,
+    "zLevel" : 2630
+  }
+}

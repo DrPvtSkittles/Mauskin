@@ -1,0 +1,32 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 12
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "mauskinT8_1.png",
+      "position" : [131.86, 20.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "mauskinT8_1lit.png",
+      "position" : [131.86, 20.75]
+    },
+    
+    {
+      "image" : "mauskinT8_2.png",
+      "position" : [11.61, 20.75],
+      "fullbright" : true
+    },
+    
+    {
+      "image" : "mauskinT8_2lit.png",
+      "position" : [11.61, 20.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "mauskinT8blocks.png"
+}

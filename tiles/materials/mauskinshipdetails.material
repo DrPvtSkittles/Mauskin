@@ -1,0 +1,24 @@
+{
+  "materialId" : 26010,
+  "materialName" : "mauskinshipdetails",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mauskinshipdetails",
+  "description" : "A riveted metal wall.",
+  "shortdescription" : "Metal Railing",
+  "glitchDescription" : "Secure. This metal wall has been reinforced with strong bolts.",
+  "floranDescription" : "Ssstrong bolted metal.",
+  "novakidDescription" : "Strong lookin' wall made from metal.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mauskinshipdetails.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3190
+  }
+}
