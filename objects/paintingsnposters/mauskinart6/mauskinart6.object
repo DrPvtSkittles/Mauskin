@@ -1,0 +1,28 @@
+{
+  "objectName" : "mauskinart6",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A famous piece of art, done by the Mauskin Chancellor.",
+  "shortdescription" : "Chancellor Artwork 6",
+  "race" : "mauskin",
+
+  "mauskinDescription" : "It's a portrait of our Leader's favourite pet, a German Shepard.",
+
+
+  "inventoryIcon" : "mauskinart6icon.png",
+  "orientations" : [
+    {
+      "image" : "mauskinart6.png:<color>",
+      "imagePosition" : [2, 2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

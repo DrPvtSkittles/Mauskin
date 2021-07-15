@@ -1,0 +1,28 @@
+{
+  "objectName" : "mauskinart5",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A famous piece of art, done by the Mauskin Chancellor.",
+  "shortdescription" : "Chancellor Artwork 5",
+  "race" : "mauskin",
+
+  "mauskinDescription" : "Charming classical landscape.",
+
+
+  "inventoryIcon" : "mauskinart5icon.png",
+  "orientations" : [
+    {
+      "image" : "mauskinart5.png:<color>",
+      "imagePosition" : [2, 2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}
