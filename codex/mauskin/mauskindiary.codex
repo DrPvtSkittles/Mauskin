@@ -1,0 +1,24 @@
+{
+	"id" : "mauskindiary",
+	"title" : "Congratulations",
+	"description" : "You are still alive.",
+	"icon" : "mauskincover.png",
+  "contentPages" : [
+  "Listen up Private! You have received this message due to reports of the Earth being annihilated. That means the biggest colony of the Protectorate has been absolutely destroyed.
+
+Your task is to move forward and recruit as many new followers from other planets.
+
+You are going to be the Protectorate Super Soliders, or SS for short.",
+
+"Remember our motto 'Words build bridges into unexplored regions'."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

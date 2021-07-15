@@ -1,0 +1,8 @@
+{
+  "name" : "liver",
+  "category" : "mauskinpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "liver.png"
+  }
+}

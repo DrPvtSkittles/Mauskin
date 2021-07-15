@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/mauskin",
+		"value" : {
+			"aiFrames" : "mauskinAI.png",
+			"portraitFrames" : "portraits/mauskinportrait.png",
+			"staticFrames" : "staticmauskin.png"	
+		}
+	}
+]

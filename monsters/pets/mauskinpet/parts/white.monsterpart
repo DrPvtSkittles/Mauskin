@@ -1,0 +1,8 @@
+{
+  "name" : "white",
+  "category" : "mauskinpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "white.png"
+  }
+}

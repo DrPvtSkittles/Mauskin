@@ -1,0 +1,29 @@
+[
+	/*
+	{ "op" : "replace",
+		"path" : "/levelVariance",
+		"value" : [ 0, 0 ]
+	},
+	*/
+	{ "op" : "add",
+		"path" : "/items/mauskin",
+		"value" : [
+			[0, [
+				{
+				"chest" : [
+				  { "name" : "mauskinoutfit1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "mauskinoutfit2chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "mauskinoutfit3chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "mauskinoutfit4chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+				],
+				"legs" : [
+				  { "name" : "mauskinoutfit1legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "mauskinoutfit2legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "mauskinoutfit3legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "mauskinoutfit4legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+					]
+				}
+			] ]
+		]
+	}
+]

@@ -1,0 +1,8 @@
+{
+  "name" : "classic",
+  "category" : "mauskinpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "classic.png"
+  }
+}

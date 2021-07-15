@@ -1,0 +1,39 @@
+{
+	"type" : "mauskinvisitor",
+	"baseType" : "outpostvisitor",
+	"statusControllerSettings" : {
+		"statusProperties" : {
+			"effectDirectives" : ""
+		}
+	},
+	"scriptConfig" : {
+		"dialog" : {
+			"converse" : {
+				"default" : {
+					"default" : [
+						"How are you?",
+						"What's up",
+						"Just looking."
+					],
+					"mauskin" : [
+						"Just looking, Thank you."
+					]
+				}
+			}
+		}
+	},
+	"items" : {
+		"override" : [
+			[0, [
+					{
+						"chest" : [
+							{ "name" : "mauskinoutfit1chest", "parameters" : { "colorIndex" : [1,3,4,5,6,7,8,9,10] } }
+						],
+						"legs" : [
+							{ "name" : "mauskinoutfit1legs", "parameters" : { "colorIndex" : 0 } }
+						]
+					}
+				] ]
+		]
+	}
+}

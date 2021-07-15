@@ -1,0 +1,8 @@
+{
+  "name" : "muted",
+  "category" : "mauskinpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "muted.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "red",
+  "category" : "mauskinpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "red.png"
+  }
+}

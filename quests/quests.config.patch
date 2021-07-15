@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/mauskin",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/mauskin",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
