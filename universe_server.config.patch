@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/mauskin",
+		"value" : [
+		    "/ships/mauskin/mauskint0.structure",
+			"/ships/mauskin/mauskint1.structure",
+			"/ships/mauskin/mauskint2.structure",
+			"/ships/mauskin/mauskint3.structure",
+			"/ships/mauskin/mauskint4.structure",
+			"/ships/mauskin/mauskint5.structure",
+			"/ships/mauskin/mauskint6.structure",
+			"/ships/mauskin/mauskint7.structure",
+			"/ships/mauskin/mauskint8.structure"
+		]
+	}
+]
