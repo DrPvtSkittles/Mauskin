@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 12 },
+    { "item" : "mauskintier5shead", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "mauskintier6shead", "count" : 1 },
+  "groups" : [ "craftingseparator", "armours", "all" ]
+}

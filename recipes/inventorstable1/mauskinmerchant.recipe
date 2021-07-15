@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 5000 }
+ 
+  ],
+  "output" : {
+    "item" : "mauskinmerchant",
+    "count" : 1
+  },
+  "duration" : 0.1,
+  "groups" : [ "inventorstable", "all" ]
+}
