@@ -1,0 +1,48 @@
+{
+  "objectName" : "spawnermauskin",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "description" : "Spawn your very own mauskin villager Simply place and then leave the planet or ship. Once you return there will be an NPC.",
+  "shortdescription" : "Mauskin Spawner",
+  "race" : "mauskin",
+  "printable" : false,
+  "category" : "spawner",
+  "price" : 100,
+  "apexDescription" : "Maybe I can reverse engineer this.",
+  "avianDescription" : "What could I possibly want with Mauskins?",
+  "floranDescription" : "Floran not sssure if want to sssummon mauskins.",
+  "glitchDescription" : "Concern. These were all meant to be destroyed.",
+  "humanDescription" : "What could I possibly want with Mauskins?",
+  "hylotlDescription" : "A Mauskin spawner. These shouldn't exist.",
+  "mauskinDescription" : "Woo.",
+  "inventoryIcon" : "defaulticon.png",
+  "orientations" : [
+    {
+      "image" : "spawner_mauskin.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "background" ]
+    }
+  ],
+  "scripts" : [ "/objects/spawner/spawners/spawner.lua" ],
+  "scriptDelta" : 1,
+  //6000,
+  "animation" : "/objects/spawner/spawners/mauskin.animation",
+  "animationParts" : {
+    "switch" : "spawner_mauskin.png"
+  },
+  "animationPosition" : [-8, 0],
+  "inputNodes" : [ ],
+  "outputNodes" : [ ],
+  "spawner" : {
+    "searchRadius" : 32.0,
+    "npcSpeciesOptions" : [ "mauskin" ],
+    "npcTypeOptions" : [ "villager" ],
+    "npcParameterOptions" : [
+      {
+        "dropPools" : [ ]
+      }
+    ]
+  }
+}
