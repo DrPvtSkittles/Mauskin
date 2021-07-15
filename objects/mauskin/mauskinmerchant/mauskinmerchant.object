@@ -1,0 +1,69 @@
+{
+  "objectName" : "mauskinmerchant",
+  "colonyTags" : ["mauskin", "commerce"],
+  "rarity" : "Common",
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Chancellor of the Mauskin",
+        "subtitle" : "Wow!"
+      }
+    },
+    "buyFactor" : 1.0,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : "mauskinstatlead" },
+      { "item" : "mauskinmannequin" },	  
+	  
+      { "item" : "mauskintier7head" },
+      { "item" : "mauskintier7chest" },
+      { "item" : "mauskintier7pants" },	  
+      { "item" : "mauskinbannerlarge" },
+	  { "item" : "mauskinbannersmall" },
+	  { "item" : "mauskinbannerside" },	  
+      { "item" : "mauskinwoodchair" },
+      { "item" : "mauskinwooddoor" },
+	  { "item" : "mauskinwoodenbed" },
+	  { "item" : "mauskinwoodendesk" },
+	  
+      { "item" : "mauskinart1" },
+	  { "item" : "mauskinart2" },
+      { "item" : "mauskinart3" },
+      { "item" : "mauskinart4" },
+	  { "item" : "mauskinart5" },
+	  { "item" : "mauskinart6" },
+
+      { "item" : "mauskinposter1" },
+	  { "item" : "mauskinposter2" },
+      { "item" : "mauskinposter3" },
+      { "item" : "mauskinposter4" }, 	  
+	  
+	  { "item" : "spawnermauskin" }	  
+    ]
+  },
+  "description" : "What an honour!",
+  "shortdescription" : "Chancellor of the Mauskin",
+  "race" : "mauskin",
+  "category" : "Merchant",
+  "price" : 1000,
+  
+  "printable" : false,
+  "unbreakable" : false,
+  "apexDescription" : "I am happy to support the fine arts.",
+  "floranDescription" : "Floran ssslightly ssscared by brush wielding Mauskin.",
+  "glitchDescription" : "Confused. This Mauskin seems unwilling to communicate.",
+  "mauskinDescription" : "What a privilege, I can barely squeak!",
+  "inventoryIcon" : "mauskinmerchanticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mauskinmerchant.png:<color>.<frame>",
+      "imagePosition" : [-14, 0],
+      "frames" : 34,
+      "animationCycle" : 8,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

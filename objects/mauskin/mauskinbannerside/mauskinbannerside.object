@@ -1,0 +1,29 @@
+{
+  "objectName" : "mauskinbannerside",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large Mauskin wallbanner from a Mauskin academy.",
+  "shortdescription" : "Large Mauskin Wall Banner",
+  "race" : "mauskin",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large Mauskin banner...",
+  "humanDescription" : "The Mauskin banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "mauskinDescription" : "I am so happy to see the Mauskin culture thrive",  
+  "inventoryIcon" : "mauskinbannersideicon.png",
+  "orientations" : [
+    {
+      "image" : "mauskinbannerside.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}
