@@ -123,8 +123,8 @@
     { "ffca8a" : "ced0d1", "e0975c" : "b1b7ba", "a85636" : "949a9e", "6f2919" : "73797d" }, //silver
     { "ffca8a" : "8f9ba5", "e0975c" : "7c8994", "a85636" : "596571", "6f2919" : "353e47" }, //blue-grey
     { "ffca8a" : "414141", "e0975c" : "2d2d2d", "a85636" : "181818", "6f2919" : "0a0a0a" }, //charcoal	
-    { "ffca8a" : "554d48", "e0975c" : "423936", "a85636" : "2d2522", "6f2919" : "120f0e" }, //chocolate
-    { "ffca8a" : "857165", "e0975c" : "725d51", "a85636" : "4c382e", "6f2919" : "261f1b" }, //brown
+    { "ffca8a" : "554d48", "e0975c" : "423936", "a85636" : "2d2522", "6f2919" : "16100e" }, //chocolate
+    { "ffca8a" : "857165", "e0975c" : "725d51", "a85636" : "4c382e", "6f2919" : "2e1f19" }, //brown
     { "ffca8a" : "e2a97b", "e0975c" : "cd9262", "a85636" : "a5654c", "6f2919" : "753d31" }, //caramel
     { "ffca8a" : "ecca9f", "e0975c" : "e2ba88", "a85636" : "d0936c", "6f2919" : "a56443" } //honey	
 	
@@ -146,7 +146,7 @@
   	{ "fc00ff" : "ffe7ef", "d9c189" : "525b67", "a38d59" : "3f4955", "735e3a" : "2b333b" }, //blue-grey - darker
   	{ "fc00ff" : "ffe7ef", "d9c189" : "1f1f1f", "a38d59" : "141414", "735e3a" : "0e0e0e" }, //charcoal - darker
   	{ "fc00ff" : "ffe7ef", "d9c189" : "342925", "a38d59" : "261a15", "735e3a" : "150c08" }, //chocolate - darker
-  	{ "fc00ff" : "ffe7ef", "d9c189" : "5e4d43", "a38d59" : "3f2e26", "735e3a" : "1f1a16" }, //brown - darker
+  	{ "fc00ff" : "ffe7ef", "d9c189" : "5e4d43", "a38d59" : "3f2e26", "735e3a" : "271913" }, //brown - darker
   	{ "fc00ff" : "ffe7ef", "d9c189" : "b37747", "a38d59" : "904f36", "735e3a" : "662d21" }, //caramel - darker	
   	{ "fc00ff" : "ffe7ef", "d9c189" : "cd9f6d", "a38d59" : "bf8159", "735e3a" : "94502e" } //honey - darker	
 	
@@ -168,7 +168,7 @@
 	{ "fc00ff" : "ffe7ef", "dc1f00" : "525b67", "be1b00" : "3f4955", "951500" : "2b333b" }, //blue-grey - darker	
 	{ "fc00ff" : "ffe7ef", "dc1f00" : "1f1f1f", "be1b00" : "141414", "951500" : "0e0e0e" }, //charcoal - darker
 	{ "fc00ff" : "ffe7ef", "dc1f00" : "342925", "be1b00" : "261a15", "951500" : "150c08" }, //chocolate - darker
-	{ "fc00ff" : "ffe7ef", "dc1f00" : "5e4d43", "be1b00" : "3f2e26", "951500" : "1f1a16" }, //brown - darker
+	{ "fc00ff" : "ffe7ef", "dc1f00" : "5e4d43", "be1b00" : "3f2e26", "951500" : "271913" }, //brown - darker
 	{ "fc00ff" : "ffe7ef", "dc1f00" : "b37747", "be1b00" : "904f36", "951500" : "662d21" }, //caramel - darker
 	{ "fc00ff" : "ffe7ef", "dc1f00" : "cd9f6d", "be1b00" : "bf8159", "951500" : "94502e" } //honey - darker		
 	
